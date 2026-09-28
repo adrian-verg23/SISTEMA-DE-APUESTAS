@@ -1,0 +1,4 @@
+apuestas/
+__pycache__/
+*.pyc
+.vscode/
