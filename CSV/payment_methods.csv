@@ -1,0 +1,6 @@
+id_payment_method,name,provider_name,is_active
+1,Tarjeta de Crédito Visa,Visa,True
+2,Tarjeta de Crédito Mastercard,Mastercard,True
+3,Transferencia Bancaria PSE,PSE,True
+4,Billetera Digital Nequi,Nequi,True
+5,Billetera Digital Daviplata,Daviplata,True

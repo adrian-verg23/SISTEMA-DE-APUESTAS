@@ -1,0 +1,6 @@
+id_market_type,name,description
+1,Ganador del Partido,Apuesta al resultado final del encuentro (1X2 o Ganador directo)
+2,Doble Oportunidad,Permite cubrir dos de tres posibles resultados en un evento
+3,Total de Goles/Puntos (Más de),Apuesta a si el marcador superará un número específico de goles o puntos
+4,Total de Goles/Puntos (Menos de),Apuesta a si el marcador quedará por debajo de un número específico
+5,Ambos Equipos Anotan,Apuesta a si ambos contendientes marcarán al menos un gol/punto
